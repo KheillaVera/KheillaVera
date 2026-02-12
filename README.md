@@ -43,4 +43,14 @@ I am a passionate software developer and student currently building impactful so
 <i>And many others...</i>
 
 ---
+### ⚡ Activity Graph
 
+<div align="center">
+  <img src="http://ghchart.rshah.org/409ba5/KheillaVera" alt="Kheilla's Github Chart" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KheillaVera&style=flat-square&color=blue" alt="profile views" />
+</div>
