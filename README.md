@@ -45,13 +45,13 @@ And many others...
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?KheillaVera=KheillaVera&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=github.com/KheillaVera&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?KheillaVera=KheillaVera&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/KheillaVera&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?KheillaVera=KheillaVera&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=github.com/KheillaVera&style=flat-square&color=blue" alt="profile views" />
 </div>
