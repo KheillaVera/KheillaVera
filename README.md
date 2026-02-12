@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005596&height=200&section=header&text=An developer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
-</div>
 
-<div align="center">
   <h1>Hi there, I'm Kheilla! 👋</h1>
   <h3>Developer | Student at New Generation Academy</h3>
   <p>Based in Kigali, Rwanda 🇷🇼</p>
+  <p>An uprising developer</p>
 
   <a href="mailto:igkvera47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
