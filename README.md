@@ -1,73 +1,60 @@
-# 👋 Hi, I'm Kheilla Vera
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005596&height=200&section=header&text=Hello%20World&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</div>
 
-🎓 Student | 💻 Software Developer in Training | 🌍 Rwanda
+<div align="center">
+  <h1>Hi there, I'm Kheilla! 👋</h1>
+  <h3>Developer | Student at New Generation Academy</h3>
+  <p>Based in Kigali, Rwanda 🇷🇼</p>
 
-I am a passionate and motivated software development student with a strong
-interest in backend development, APIs, and problem-solving.
-I enjoy building practical projects that strengthen my understanding of
-programming concepts and real-world applications.
-
----
-
-## 🛠️ Technical Skills
-- **Languages:** JavaScript, HTML, CSS , C , PHP 
-- **Backend:** Node.js, php , database
-- **Tools:** Git, GitHub, Postman
-- **Other:** Basic server-side logic and project structuring
+  <a href="mailto:igkvera47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+ 
 
 ---
 
-## 📂 Projects
-Here are some of the projects I have worked on:
+### 👩‍💻 About Me
 
-- **PULSE EDITOR**  
-  An offline editing app that has alot of features and will
-  improve the editing field globally.
+I am a passionate software developer and student currently building impactful solutions in **PHP** and **JavaScript**. I love turning complex problems into clean, efficient code.
 
-- **Attendance System**  
-  A simple attendance management project designed to practice backend logic,
-  data handling, and version control using Git and GitHub.
-
-- **Other Academic & Practice Projects**  
-  Various small projects created for learning JavaScript, APIs,
-  and software development fundamentals.
+- 🔭 I’m currently working on **Pulse (Video Editor)** , **Smart Ride Rwanda** , **Cancelling app** , etc.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **PHP, MySQL, System Architecture, Javascript, C, Designing, etc**.
 
 ---
 
-## 🌱 Currently Learning
-- Backend development with Node.js and Express.js
-- API testing and debugging using Postman
-- Writing clean, maintainable code
-- Professional GitHub workflows
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,vscode,git,github,figma,bootstrap,c" />
+  </a>
+</div>
 
 ---
 
-## 🎯 Goals
-- Improve backend and API development skills
-- Build more real-world projects
-- Prepare for internships and professional opportunities in software development
+### 🚀 Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Pulse** | A web-based video editor with a vibe similar to CapCut. | `JS` `FFmpeg` |
+| **Smart Ride Rwanda** | A transport booking system for seamless travel in Kigali. | `PHP` `MySQL` |
+| **School Management** | Comprehensive system for student notes, quizzes, and attendance. | `PHP` `SQL` |
+| **Umuzi Boho** | A modern, aesthetic restaurant website for a local client. | `HTML` `Tailwind` |
+And many others...
 ---
 
-## 📫 Contact
-- **GitHub:** https://github.com/KheillaVera
+### 📊 GitHub Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?KheillaVera=KheillaVera&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?KheillaVera=KheillaVera&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
 
-⭐ *Always learning, improving, and building.*
+<br />
 
-
-<!--
-**KheillaVera/KheillaVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?KheillaVera=KheillaVera&style=flat-square&color=blue" alt="profile views" />
+</div>
